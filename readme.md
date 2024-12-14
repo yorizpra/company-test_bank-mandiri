@@ -9,8 +9,8 @@ Pastikan Anda memiliki Python 3.x terinstal di komputer Anda.
 ## Instalasi
 1. Clone repository ini:
     ```bash
-    git clone <URL_REPOSITORY_ANDA>
-    cd <NAMA_FOLDER_REPOSITORY>
+    git clone https://github.com/yorizpra/company-test_bank-mandiri.git
+    cd company-test_bank-mandiri
     ```
 
 ## Cara Menjalankan Program
